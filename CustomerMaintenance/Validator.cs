@@ -67,6 +67,7 @@ namespace CustomerMaintenance
             return msg;
         }
 
+        //Tepper, 18JUN2022
         public static bool IsValidEmail(string value, string name)
         {
             string msg = "";
